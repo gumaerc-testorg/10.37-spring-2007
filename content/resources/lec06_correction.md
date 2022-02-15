@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: A correction to Lecture 6.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-37-chemical-and-biological-reaction-engineering-spring-2007/d0db6b13c38fab65783434f87bfac95f_lec06_correction.pdf
+file: /media/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/d0db6b13c38fab65783434f87bfac95f_lec06_correction.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec06_correction.pdf
 uid: d0db6b13-c38f-ab65-7834-34f87bfac95f

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-37-chemical-and-biological-reaction-engineering-spring-2007/fe4d2cbfc258bfa7ecb74de768c24371_pset01.pdf
+file: /media/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/fe4d2cbfc258bfa7ecb74de768c24371_pset01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset01.pdf
 uid: fe4d2cbf-c258-bfa7-ecb7-4de768c24371

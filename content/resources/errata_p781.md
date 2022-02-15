@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Errata for course text.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-37-chemical-and-biological-reaction-engineering-spring-2007/8b477edb3104c518603085f0888253f0_errata_p781.pdf
+file: /media/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/8b477edb3104c518603085f0888253f0_errata_p781.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: errata_p781.pdf
 uid: 8b477edb-3104-c518-6030-85f0888253f0

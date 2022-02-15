@@ -5,8 +5,13 @@ description: A review of some of the concepts of heat and mass transfer, particu
   as the boundary of a solid particle submerged in a fluid. In the cases considered,
   the interface is stationary and there is no phase change or chemical reaction at
   the interface.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-37-chemical-and-biological-reaction-engineering-spring-2007/ca372842a20e2e5416bcf2f3faf118f4_biot_numbers.pdf
+file: /media/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/ca372842a20e2e5416bcf2f3faf118f4_biot_numbers.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: biot_numbers.pdf
 uid: ca372842-a20e-2e54-16bc-f2f3faf118f4

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 59c5aafb-4d60-a558-f8cd-d39db174314a
 ---
@@ -176,7 +179,7 @@ Fogler problems:
 
 There is a typo in the problem statement for 11-5. The length of the reactor pipe should be 20 cm, not 20 m. Also, please use the following viscosity and diffusivity data:
 
-At 500oC, the viscosity of hydrogen is 0.015 centipoise and the viscosities of cyclohexane and benzene are both 0.1 centipoise. Assume the diffusivity of all species (Dab) is 0.857 cm2/s at the reactor T and P
+At 500{{< sup "o" >}}C, the viscosity of hydrogen is 0.015 centipoise and the viscosities of cyclohexane and benzene are both 0.1 centipoise. Assume the diffusivity of all species (D{{< sub "ab" >}}) is 0.857 cm{{< sup "2" >}}/s at the reactor T and P
 
 
 {{< tdclose >}}

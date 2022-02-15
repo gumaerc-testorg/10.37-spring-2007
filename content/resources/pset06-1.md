@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-37-chemical-and-biological-reaction-engineering-spring-2007/26fdd2ba74e696f33231346134a226de_pset06.zip
+file: /media/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/26fdd2ba74e696f33231346134a226de_pset06.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: pset06.zip
 uid: 26fdd2ba-74e6-96f3-3231-346134a226de

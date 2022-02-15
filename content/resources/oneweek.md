@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file for Problem Set 6.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-37-chemical-and-biological-reaction-engineering-spring-2007/826539e91f31123a3c082a75b18ace20_oneweek.fig
+file: /media/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/826539e91f31123a3c082a75b18ace20_oneweek.fig
 file_type: application/octet-stream
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: oneweek.fig
 uid: 826539e9-1f31-123a-3c08-2a75b18ace20
