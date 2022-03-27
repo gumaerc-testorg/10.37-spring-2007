@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 66846f61-a88e-f89c-f09f-e14e1b717cd3
 resourcetype: Document
 title: rev_exam2.pdf
 uid: 61e8acef-1848-aae3-35ea-82bedf0b187b

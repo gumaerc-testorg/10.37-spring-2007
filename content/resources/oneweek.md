@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 59c5aafb-4d60-a558-f8cd-d39db174314a
 resourcetype: Other
 title: oneweek.fig
 uid: 826539e9-1f31-123a-3c08-2a75b18ace20

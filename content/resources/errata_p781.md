@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 292eaa81-a37b-66b1-455d-0b2819318a14
 resourcetype: Document
 title: errata_p781.pdf
 uid: 8b477edb-3104-c518-6030-85f0888253f0

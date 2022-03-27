@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 59c5aafb-4d60-a558-f8cd-d39db174314a
 resourcetype: Document
 title: batch_reactor.pdf
 uid: 8e7d2973-11d0-e016-1d45-01242715971c

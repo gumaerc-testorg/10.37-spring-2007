@@ -11,19 +11,19 @@ This review is courtesy of David Adrian. Used with permission.
 
 MATLAB® Review ([PDF]({{< baseurl >}}/resources/matlab_review))
 
-Demonstrates the use of various ODE solvers to integrate a pair of interdependent ODEs: odesintegrate.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/tools/odesintegrate.m))
+Demonstrates the use of various ODE solvers to integrate a pair of interdependent ODEs: odesintegrate.m ([M]({{< baseurl >}}/resources/odesintegrate))
 
-Finds the sides of a rectangle with a given perimeter and area: multiplefsolve.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/tools/multiplefsolve.m))
+Finds the sides of a rectangle with a given perimeter and area: multiplefsolve.m ([M]({{< baseurl >}}/resources/multiplefsolve))
 
-Show how to use events in ODE integrators to keep track of user-defined significant time-points: learntouseevents.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/tools/learntouseevents.m))
+Show how to use events in ODE integrators to keep track of user-defined significant time-points: learntouseevents.m ([M]({{< baseurl >}}/resources/learntouseevents))
 
 Sample solutions to the exercises:
 
-sampleproblem1.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/tools/sampleproblem1.m))  
-sampleproblem2.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/tools/sampleproblem2.m))  
-sampleproblem3.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/tools/sampleproblem3.m))  
-sampleproblem4.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/tools/sampleproblem4.m))  
-sampleproblem5.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/tools/sampleproblem5.m))
+sampleproblem1.m ([M]({{< baseurl >}}/resources/sampleproblem1))  
+sampleproblem2.m ([M]({{< baseurl >}}/resources/sampleproblem2))  
+sampleproblem3.m ([M]({{< baseurl >}}/resources/sampleproblem3))  
+sampleproblem4.m ([M]({{< baseurl >}}/resources/sampleproblem4))  
+sampleproblem5.m ([M]({{< baseurl >}}/resources/sampleproblem5))
 
 The ZIP archive below contains the above files:
 

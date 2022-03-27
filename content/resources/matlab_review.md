@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 350837a5-f959-1b36-3d8d-6c740cc64608
 resourcetype: Document
 title: matlab_review.pdf
 uid: 553b0679-342c-8db1-3215-140b04230d06

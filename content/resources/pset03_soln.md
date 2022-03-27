@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 59c5aafb-4d60-a558-f8cd-d39db174314a
 resourcetype: Document
 title: pset03_soln.pdf
 uid: d611926e-b0f9-0957-cae1-f97a9d09b461

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 856dd290-3098-a93d-b074-f23f2870a240
 resourcetype: Document
 title: biot_numbers.pdf
 uid: ca372842-a20e-2e54-16bc-f2f3faf118f4
