@@ -1,10 +1,17 @@
 ---
 content_type: page
+description: This section includes lecture notes prepared by Tiffany Iaconis, Frederick
+  Jao, and Vicky Loewer for MIT OpenCourseWare. They are preliminary and may contain
+  errors.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 856dd290-3098-a93d-b074-f23f2870a240
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 These lecture notes were prepared by Tiffany Iaconis, Frederick Jao, and Vicky Loewer for MIT OpenCourseWare. They are preliminary and may contain errors.
@@ -32,7 +39,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Preliminaries and remembrance of things past. Reaction stoichiometry, lumped stoichiometries in complex systems such as bioconversions and cell growth (yields); extent of reaction, independence of reactions, measures of concentration. Single reactions and reaction networks, bioreaction pathways. (WHG) ([PDF]({{< baseurl >}}/resources/lec01_02072007_g))
+Preliminaries and remembrance of things past. Reaction stoichiometry, lumped stoichiometries in complex systems such as bioconversions and cell growth (yields); extent of reaction, independence of reactions, measures of concentration. Single reactions and reaction networks, bioreaction pathways. (WHG) ({{% resource_link 98d57179-96d5-ae55-c483-1d64c42ec88e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -41,7 +48,7 @@ Preliminaries and remembrance of things past. Reaction stoichiometry, lumped sto
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The reaction rate and reaction mechanisms: Definition in terms of reacting compounds and reaction extent; rate laws, Arrhenius equation, elementary, reversible, non-elementary, catalytic reactions. (WHG) ([PDF]({{< baseurl >}}/resources/lec02_02092007_g))
+The reaction rate and reaction mechanisms: Definition in terms of reacting compounds and reaction extent; rate laws, Arrhenius equation, elementary, reversible, non-elementary, catalytic reactions. (WHG) ({{% resource_link 03959cc9-615b-f18c-be03-b9943238d959 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +57,7 @@ The reaction rate and reaction mechanisms: Definition in terms of reacting compo
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Kinetics of cell growth and enzymes. Cell growth kinetics; substrate uptake and product formation in microbial growth; enzyme kinetics, Michaelis-Menten rate form. (KDW) ([PDF]({{< baseurl >}}/resources/lec03_02142007_w))
+Kinetics of cell growth and enzymes. Cell growth kinetics; substrate uptake and product formation in microbial growth; enzyme kinetics, Michaelis-Menten rate form. (KDW) ({{% resource_link 866a0818-a4bf-6240-8302-98853b9e9985 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +66,7 @@ Kinetics of cell growth and enzymes. Cell growth kinetics; substrate uptake and 
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Reaction mechanisms and rate laws: Reactive intermediates and steady state approximation in reaction mechanisms. Rate-limiting step. Chain reactions. Pyrolysis reactions. (WHG) ([PDF]({{< baseurl >}}/resources/lec04_02162007_g))
+Reaction mechanisms and rate laws: Reactive intermediates and steady state approximation in reaction mechanisms. Rate-limiting step. Chain reactions. Pyrolysis reactions. (WHG) ({{% resource_link 1b00a881-d57c-e733-f0aa-17b824e8ac38 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +75,7 @@ Reaction mechanisms and rate laws: Reactive intermediates and steady state appro
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Continuous stirred tank reactor (CSTR). Reactions in a perfectly stirred tank. Steady-state CSTR. (KDW) ([PDF]({{< baseurl >}}/resources/lec05_02212007_g))
+Continuous stirred tank reactor (CSTR). Reactions in a perfectly stirred tank. Steady-state CSTR. (KDW) ({{% resource_link 9289fe86-a477-8895-a958-4bb4fca5c5c2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,9 +86,9 @@ Continuous stirred tank reactor (CSTR). Reactions in a perfectly stirred tank. S
 {{< tdopen >}}
 
 
-Concentration that optimizes desired rate. Selectivity vs. Conversion. Combining reactors with separations. (WHG) ([PDF]({{< baseurl >}}/resources/lec06_02232007_g))
+Concentration that optimizes desired rate. Selectivity vs. Conversion. Combining reactors with separations. (WHG) ({{% resource_link f1688960-81c1-e947-49ab-5226253b1a22 "PDF" %}})
 
-Lecture 6 correction ([PDF]({{< baseurl >}}/resources/lec06_correction))
+Lecture 6 correction ({{% resource_link d0db6b13-c38f-ab65-7834-34f87bfac95f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -92,7 +99,7 @@ Lecture 6 correction ([PDF]({{< baseurl >}}/resources/lec06_correction))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Batch reactor: Equations, reactor sizing for constant volume and variable volume processes. (KDW) ([PDF]({{< baseurl >}}/resources/lec07_02282007_w))
+Batch reactor: Equations, reactor sizing for constant volume and variable volume processes. (KDW) ({{% resource_link 283b16fd-f984-efdf-4e6f-5ecccffac44a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +108,7 @@ Batch reactor: Equations, reactor sizing for constant volume and variable volume
 8
 {{< tdclose >}}
 {{< tdopen >}}
-The plug flow reactor. (WHG) ([PDF]({{< baseurl >}}/resources/lec08_03022007_g))
+The plug flow reactor. (WHG) ({{% resource_link d4c77250-b11a-07b2-8ed5-5f826c83b376 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +117,7 @@ The plug flow reactor. (WHG) ([PDF]({{< baseurl >}}/resources/lec08_03022007_g))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Reactor size comparisons for PFR and CSTR. Reactors in series and in parallel. How choice of reactor affects selectivity vs. conversion. (KDW) ([PDF]({{< baseurl >}}/resources/lec09_03072007_w))
+Reactor size comparisons for PFR and CSTR. Reactors in series and in parallel. How choice of reactor affects selectivity vs. conversion. (KDW) ({{% resource_link 7f66d10f-e91f-acfe-d4a3-2695695f2996 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +126,7 @@ Reactor size comparisons for PFR and CSTR. Reactors in series and in parallel. H
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Non-ideal reactor mixing patterns. Residence time distribution. Tanks in series model. Combinations of ideal reactors. (KDW) ([PDF]({{< baseurl >}}/resources/lec10_03092007_w))
+Non-ideal reactor mixing patterns. Residence time distribution. Tanks in series model. Combinations of ideal reactors. (KDW) ({{% resource_link c74dac17-84fa-b22d-eb39-830c06a27fec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +135,7 @@ Non-ideal reactor mixing patterns. Residence time distribution. Tanks in series 
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Non isothermal reactors. Equilibrium limitations, stability. Derivation of energy balances for ideal reactors; equilibrium conversion, adiabatic and nonadiabatic reactor operation. (WHG) ([PDF]({{< baseurl >}}/resources/lec11_03142007_g))
+Non isothermal reactors. Equilibrium limitations, stability. Derivation of energy balances for ideal reactors; equilibrium conversion, adiabatic and nonadiabatic reactor operation. (WHG) ({{% resource_link 6e37d01f-bdf9-6ce9-a42a-085c48bb9a26 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +144,7 @@ Non isothermal reactors. Equilibrium limitations, stability. Derivation of energ
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Data collection and analysis. Experimental methods for the determination of kinetic parameters of chemical and enzymatic reactions; determination of cell growth parameters; statistical analysis and model discrimination. (WHG) ([PDF]({{< baseurl >}}/resources/lec12_03162007_g))
+Data collection and analysis. Experimental methods for the determination of kinetic parameters of chemical and enzymatic reactions; determination of cell growth parameters; statistical analysis and model discrimination. (WHG) ({{% resource_link c6ccb4ac-fbd8-5e86-70f0-98dd0461c48e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +153,7 @@ Data collection and analysis. Experimental methods for the determination of kine
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Biological reactors - chemostats. Theory of the chemostat. Fed batch or semi-continuous fermentor operation. (KDW) ([PDF]({{< baseurl >}}/resources/lec13_03212007_w))
+Biological reactors - chemostats. Theory of the chemostat. Fed batch or semi-continuous fermentor operation. (KDW) ({{% resource_link cacb521f-9f12-3abd-e3b9-a448c5e17d56 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +162,7 @@ Biological reactors - chemostats. Theory of the chemostat. Fed batch or semi-con
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Kinetics of non-covalent bimolecular interactions. Significance; typical values and diffusion limit; approach to equilibrium; multivalency. (KDW) ([PDF]({{< baseurl >}}/resources/lec14_04042007_w))
+Kinetics of non-covalent bimolecular interactions. Significance; typical values and diffusion limit; approach to equilibrium; multivalency. (KDW) ({{% resource_link 5df31e82-3413-2e58-5c7c-d99ecadcb3e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +171,7 @@ Kinetics of non-covalent bimolecular interactions. Significance; typical values 
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Gene expression and trafficking dynamics. Approach to steady state; receptor trafficking. (KDW) ([PDF]({{< baseurl >}}/resources/lec15_04062007_w))
+Gene expression and trafficking dynamics. Approach to steady state; receptor trafficking. (KDW) ({{% resource_link fae70b80-61cc-b031-2539-50d42f2a789f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +180,7 @@ Gene expression and trafficking dynamics. Approach to steady state; receptor tra
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Catalysis. Inorganic and enzyme catalysts and their properties; kinetics of heterogeneous catalytic reactions; adsorption isotherms, derivation of rate laws; Langmuir-Hinshelwood kinetics. (WHG) ([PDF]({{< baseurl >}}/resources/lec16_04112007_g))
+Catalysis. Inorganic and enzyme catalysts and their properties; kinetics of heterogeneous catalytic reactions; adsorption isotherms, derivation of rate laws; Langmuir-Hinshelwood kinetics. (WHG) ({{% resource_link 51e31c53-576d-849d-4897-76c705307e55 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,7 +189,7 @@ Catalysis. Inorganic and enzyme catalysts and their properties; kinetics of hete
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Mass transfer resistances. External diffusion effects. Non-porous packed beds and monoliths, immobilized cells. (WHG) ([PDF]({{< baseurl >}}/resources/lec17_04132007_g))
+Mass transfer resistances. External diffusion effects. Non-porous packed beds and monoliths, immobilized cells. (WHG) ({{% resource_link 6a615626-763c-2da5-1ddf-683edcafe7cb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -191,7 +198,7 @@ Mass transfer resistances. External diffusion effects. Non-porous packed beds an
 18
 {{< tdclose >}}
 {{< tdopen >}}
-External mass-transfer resistance: Gas-liquid reactions in multiphase systems. (KDW) ([PDF]({{< baseurl >}}/resources/lec18_04182007_w))
+External mass-transfer resistance: Gas-liquid reactions in multiphase systems. (KDW) ({{% resource_link 6cf645f5-9ed1-ab23-7760-05b93331915a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +207,7 @@ External mass-transfer resistance: Gas-liquid reactions in multiphase systems. (
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Oxygen transfer in fermentors. Applications of gas-liquid transport with reaction. (KDW) ([PDF]({{< baseurl >}}/resources/lec19_04202007_w))
+Oxygen transfer in fermentors. Applications of gas-liquid transport with reaction. (KDW) ({{% resource_link 85477ce3-0129-fae0-8005-6a95bf5b3cdd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -209,7 +216,7 @@ Oxygen transfer in fermentors. Applications of gas-liquid transport with reactio
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Reaction and diffusion in porous catalysts. Effective diffusivity, internal and overall effectiveness factor, Thiele modulus, apparent reaction rates. (KDW) ([PDF]({{< baseurl >}}/resources/lec20_04272007_w))
+Reaction and diffusion in porous catalysts. Effective diffusivity, internal and overall effectiveness factor, Thiele modulus, apparent reaction rates. (KDW) ({{% resource_link b46164dd-623c-8ad8-c49e-d39983e4b7ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -218,7 +225,7 @@ Reaction and diffusion in porous catalysts. Effective diffusivity, internal and 
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Reaction and diffusion in porous catalysts (cont.). Packed bed reactors. (WHG) ([PDF]({{< baseurl >}}/resources/lec21_05022007_g))
+Reaction and diffusion in porous catalysts (cont.). Packed bed reactors. (WHG) ({{% resource_link 4fea4f4e-0f38-526c-4fa7-f2d55c602427 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,9 +236,9 @@ Reaction and diffusion in porous catalysts (cont.). Packed bed reactors. (WHG) (
 {{< tdopen >}}
 
 
-Combined internal and external transport resistances. (WHG) ([PDF]({{< baseurl >}}/resources/lec22_05042007_g))
+Combined internal and external transport resistances. (WHG) ({{% resource_link 2ef1138a-07b7-82ba-17fd-1d41b68c4448 "PDF" %}})
 
-Biot numbers review. ([PDF]({{< baseurl >}}/resources/biot_numbers)) (Courtesy of David Adrian. Used with permission.)
+Biot numbers review. ({{% resource_link ca372842-a20e-2e54-16bc-f2f3faf118f4 "PDF" %}}) (Courtesy of David Adrian. Used with permission.)
 
 
 {{< tdclose >}}
@@ -260,7 +267,7 @@ Pulling it all together; applications to bioengineering and medicine. Presentati
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Course review. (WHG) ([PDF]({{< baseurl >}}/resources/lec25_05162007_g))
+Course review. (WHG) ({{% resource_link cbb3a6f8-7c0b-a55a-d04e-5313d308838f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
