@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides information about required texts, recommended texts,
+  and the schedule of readings by session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 292eaa81-a37b-66b1-455d-0b2819318a14
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Required Texts
@@ -551,4 +560,4 @@ Final exam
 
 {{< tableclose >}}
 
-Error in Fogler: Superficial Velocity or Actual Velocity ([PDF]({{< baseurl >}}/resources/errata_p781))
+Error in Fogler: Superficial Velocity or Actual Velocity ({{% resource_link 8b477edb-3104-c518-6030-85f0888253f0 "PDF" %}})
