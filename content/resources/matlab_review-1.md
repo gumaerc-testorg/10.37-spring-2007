@@ -6,6 +6,7 @@ file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/bd
 file_type: application/zip
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Archive containing the MATLAB? Review and related files. The ZIP file contains: matlab_review.pdf, and 8 .m files.
-

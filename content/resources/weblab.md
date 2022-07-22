@@ -6,6 +6,7 @@ file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/e2
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Archive containing information about the WebLab Experiment. The ZIP file contains: 2 .pdf files and 4 .txt files.
-

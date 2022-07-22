@@ -9,6 +9,7 @@ file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/ca
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 A review of some of the concepts of heat and mass transfer, particularly focusing on the dynamics at the interface between two disparate materials, such as the boundary of a solid particle submerged in a fluid. In the cases considered, the interface is stationary and there is no phase change or chemical reaction at the interface.
-

@@ -5,6 +5,7 @@ file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/8b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Errata for course text.
-
