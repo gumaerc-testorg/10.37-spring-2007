@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to the first midterm exam.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/f2d05f20438e788f949c4470e364792e_midterm1_key.pdf
+file_size: 100525
 file_type: application/pdf
 learning_resource_types:
 - Exams

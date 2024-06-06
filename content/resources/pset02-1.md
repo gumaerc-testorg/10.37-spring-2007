@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/e4118f80e5b838d12eecb5f53624cb38_pset02.zip
+file_size: 277909
 file_type: application/zip
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Pre-lab Assignment.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/b65851c82a929254d2271f908b3d06d7_2007_prelab.pdf
+file_size: 163904
 file_type: application/pdf
 learning_resource_types:
 - Assignments

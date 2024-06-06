@@ -2,6 +2,7 @@
 content_type: resource
 description: Post-lab Assignment.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/802b6a45a6616da9983ea1424894257a_2007_postlab.pdf
+file_size: 183903
 file_type: application/pdf
 learning_resource_types:
 - Assignments

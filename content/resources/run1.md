@@ -2,6 +2,7 @@
 content_type: resource
 description: Data file for WebLab Experiment.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/10e9b6224987b8af72be318809870e5e_run1.txt
+file_size: 32572
 file_type: text/plain
 learning_resource_types:
 - Assignments

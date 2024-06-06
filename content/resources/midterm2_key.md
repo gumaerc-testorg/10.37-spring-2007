@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to the second midterm exam.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/40d84ef61492f9504761f5dbdce81f3c_midterm2_key.pdf
+file_size: 166484
 file_type: application/pdf
 learning_resource_types:
 - Exams

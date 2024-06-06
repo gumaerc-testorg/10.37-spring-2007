@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment on Batch Reactor Balances.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/8e7d297311d0e0161d4501242715971c_batch_reactor.pdf
+file_size: 38049
 file_type: application/pdf
 learning_resource_types:
 - Assignments
