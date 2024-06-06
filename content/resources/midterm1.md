@@ -2,6 +2,7 @@
 content_type: resource
 description: This first midterm for the course.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/63ba4830861c4a16899097a9b9176418_midterm1.pdf
+file_size: 35716
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample solutions to exercises.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/e081e6b728bed0f54163cd51ed783e22_sampleproblem5.m
+file_size: 1953
 file_type: text/plain
 learning_resource_types:
 - Tools

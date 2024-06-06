@@ -2,6 +2,7 @@
 content_type: resource
 description: Review for midterm exam 2.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/61e8acef1848aae335ea82bedf0b187b_rev_exam2.pdf
+file_size: 90975
 file_type: application/pdf
 learning_resource_types:
 - Exams
