@@ -2,6 +2,7 @@
 content_type: resource
 description: Errata for course text.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/8b477edb3104c518603085f0888253f0_errata_p781.pdf
+file_size: 39338
 file_type: application/pdf
 learning_resource_types:
 - Readings

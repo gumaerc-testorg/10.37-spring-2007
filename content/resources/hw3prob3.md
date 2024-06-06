@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting MATLAB? file for Problem Set 3.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/790b380842a2fd5aedc60e8272fa94e5_hw3prob3.m
+file_size: 1597
 file_type: text/plain
 learning_resource_types:
 - Assignments

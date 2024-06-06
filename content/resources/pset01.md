@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/fe4d2cbfc258bfa7ecb74de768c24371_pset01.pdf
+file_size: 170087
 file_type: application/pdf
 learning_resource_types:
 - Assignments
