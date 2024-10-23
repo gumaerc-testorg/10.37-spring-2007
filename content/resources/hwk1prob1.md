@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file for Problem Set 1.
-file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/d4e79158fe3444acde364e41d474e8a7_hwk1prob1.m
+file: /ol-ocw-studio-app/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/d4e79158fe3444acde364e41d474e8a7_hwk1prob1.m
 file_size: 4202
 file_type: text/plain
 learning_resource_types:

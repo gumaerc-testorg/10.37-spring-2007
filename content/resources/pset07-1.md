@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/fe9bf98850a2a19e7b8726d7c156b59c_pset07.zip
+file: /ol-ocw-studio-app/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/fe9bf98850a2a19e7b8726d7c156b59c_pset07.zip
 file_size: 244858
 file_type: application/zip
 learning_resource_types:
