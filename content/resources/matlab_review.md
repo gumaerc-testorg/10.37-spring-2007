@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A review of MATLAB?.
-file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/553b0679342c8db13215140b04230d06_matlab_review.pdf
+file: /ol-ocw-studio-app/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/553b0679342c8db13215140b04230d06_matlab_review.pdf
 file_size: 86909
 file_type: application/pdf
 learning_resource_types:
