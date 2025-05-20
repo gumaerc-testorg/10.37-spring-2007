@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample solutions to exercises.
-file: /ol-ocw-studio-app/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/5d717a9886c27537989164dffab935bd_sampleproblem4.m
+file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/5d717a9886c27537989164dffab935bd_sampleproblem4.m
 file_size: 1589
 file_type: text/plain
 learning_resource_types:

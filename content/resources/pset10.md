@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /ol-ocw-studio-app/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/93bc0582bf574da2b495e8ec3235049a_pset10.pdf
+file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/93bc0582bf574da2b495e8ec3235049a_pset10.pdf
 file_size: 133306
 file_type: application/pdf
 learning_resource_types:
