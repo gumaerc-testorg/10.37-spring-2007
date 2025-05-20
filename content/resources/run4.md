@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data file for WebLab Experiment.
-file: /ol-ocw-studio-app/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/558b067ceb2a96b743c6122f9379d1c0_run4.txt
+file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/558b067ceb2a96b743c6122f9379d1c0_run4.txt
 file_size: 28603
 file_type: text/plain
 learning_resource_types:

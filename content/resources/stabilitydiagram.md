@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file for Problem Set 6.
-file: /ol-ocw-studio-app/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/30e1c72eb270691d41f8426adef11170_stabilitydiagram.m
+file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/30e1c72eb270691d41f8426adef11170_stabilitydiagram.m
 file_size: 1152
 file_type: text/plain
 learning_resource_types:
