@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Archive containing information about the WebLab Experiment. The ZIP
   file contains: 2 .pdf files and 4 .txt files.'
-file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/e22f9efc0240b082397fb5913b774f0d_weblab.zip
+file: /ol-ocw-studio-app/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/e22f9efc0240b082397fb5913b774f0d_weblab.zip
 file_size: 315406
 file_type: application/zip
 learning_resource_types:
