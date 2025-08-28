@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data file for Homework 1.
-file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/a54d7b6fbb33533a87e7bd038e15f9a8_vinylethene1.txt
+file: /ol-ocw-studio-app/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/a54d7b6fbb33533a87e7bd038e15f9a8_vinylethene1.txt
 file_size: 547020
 file_type: text/plain
 learning_resource_types:

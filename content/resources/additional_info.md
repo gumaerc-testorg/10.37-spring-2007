@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Additional information for Fogler 2-5 and 6-6.
-file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/338d16d2f638f5c05e595e17734d36ce_additional_info.pdf
+file: /ol-ocw-studio-app/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/338d16d2f638f5c05e595e17734d36ce_additional_info.pdf
 file_size: 14703
 file_type: application/pdf
 learning_resource_types:
